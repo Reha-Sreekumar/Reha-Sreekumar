@@ -1,7 +1,6 @@
 # 👩🏻‍🎓 About Me:
 I am a second-year B.Tech student specializing in Artificial Intelligence, Data Science, and Medical Engineering, with a strong passion for building technology that creates meaningful real-world impact. My interests lie at the intersection of AI, innovation, and emerging technologies, where I actively develop hands-on skills through projects, research exploration, and continuous learning. I enjoy collaborating with diverse teams, solving complex problems, and turning ideas into practical solutions that push boundaries. I am always eager to connect, learn from new perspectives, and contribute to initiatives that drive the future of intelligent systems, digital health, and advanced engineering.<br>
 
-
 ## 🌐 Socials:
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/https://www.linkedin.com/in/reha-sreekumar/) [![email](https://img.shields.io/badge/Email-D14836?logo=gmail&logoColor=white)](mailto:rehanair08@gmail.com) 
 
